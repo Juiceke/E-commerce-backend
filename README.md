@@ -19,6 +19,14 @@
   ## Usage
   Use insomnia to get, post, and delete things from the database!
 
+https://user-images.githubusercontent.com/87340331/142088233-056632f0-a9cc-4bdd-a947-505fc7012ae5.mp4
+
+
+
+https://user-images.githubusercontent.com/87340331/142088244-2dd09823-d0ac-49c7-ac30-5d3678feac09.mp4
+
+
+
   ## Contributing
   You may do whatever you want with the files here!
   
