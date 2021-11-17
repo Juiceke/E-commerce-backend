@@ -23,7 +23,7 @@
   You may do whatever you want with the files here!
   
   ## License
-  [<img src='https://img.shields.io/static/v1?label=GNU%20GPLv3&message=license&color=blue'>](https://choosealicense.com/licenses/gpl-3.0/)
+  This repo has no license.
 
   ## Email
   Send any questions about the app to my email at [brett_herrell@yahoo.com](mailto:brett_herrell@yahoo.com)
